@@ -1,7 +1,7 @@
 
 ## Hey guys, I'm Damiana 👩🏽‍💻
 
-<img align="right" width="300" alt="octocat" src="https://github.com/damiana/damiana/raw/master/octocat_coffee.png" />
+<img align="right" width="480" height="270" alt="octocat" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47v90gg7jgd2yfjm4tc508l5w3c3yu3a7kyo91nytx&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
 ### I'm a Software Expert, I love challenges and complexities and solving problems.
 
